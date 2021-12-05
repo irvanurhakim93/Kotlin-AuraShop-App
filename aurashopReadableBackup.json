@@ -1,0 +1,1007 @@
+{
+  "__collections__": {
+    "Admin": {
+      "Upm0x1MoH1cNWIKeEMZo": {
+        "username": "admin",
+        "password": "admin",
+        "__collections__": {}
+      }
+    },
+    "Orders": {
+      "1yKEhVQPjWEe1n6OdOtl": {
+        "shipping_charge": "20000",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "items": [
+          {
+            "product_price": "90000",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "product_id": "dIzlRKpv7bqk3Z5Bpc07",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660674464.png?alt=media&token=7ce37cd9-c1e6-4340-bd49-91d2e2d0a52d",
+            "cart_quantity": "2",
+            "stock_quantity": "20",
+            "product_name": "Sakhira",
+            "id": "qkkCB3Q8Xj0ODwgZvnEV"
+          }
+        ],
+        "id": "",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660674464.png?alt=media&token=7ce37cd9-c1e6-4340-bd49-91d2e2d0a52d",
+        "order_datetime": 1627247867234,
+        "sub_total_amount": "180000.0",
+        "product_name": "Pesanan Saya 1627247867233",
+        "total_amount": "200000.0",
+        "address": {
+          "id": "Wp5Ak0DbjJxXCcFDkw4i",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "otherDetails": "",
+          "name": "Fouri Khanjesti",
+          "mobileNumber": "08956231",
+          "additionalNote": "Rumah saya baris ke tiga",
+          "zipCode": "3940502834",
+          "address": "Jalan Pinang Mas 3"
+        },
+        "__collections__": {}
+      },
+      "2fLEFVEQiQCbVrpuyr16": {
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779",
+        "id": "",
+        "order_datetime": 1626099726329,
+        "items": [
+          {
+            "product_id": "0kRNqn5nE2ciIoxJnU7w",
+            "product_name": "Blu Ray Duke Nukem PS4",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "cart_quantity": "1",
+            "id": "aYEAnKGTOZtKgILb9PBI",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779",
+            "stock_quantity": "22",
+            "product_price": "450000"
+          }
+        ],
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "product_name": "Pesanan Saya 1626099726329",
+        "shipping_charge": "20000",
+        "sub_total_amount": "450000.0",
+        "total_amount": "470000.0",
+        "address": {
+          "mobileNumber": "08962154085",
+          "address": "Jalan Jagakarsa Jakarta Selatan",
+          "id": "mYRwJlPgD6CqFyfwIiyT",
+          "otherDetails": "",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "name": "Fouri Khanjesti",
+          "zipCode": "7890456",
+          "additionalNote": "Rumah saya warna biru"
+        },
+        "__collections__": {}
+      },
+      "449Kh3Isuj5rpA8gY61H": {
+        "address": {
+          "additionalNote": "Rumah saya warna biru",
+          "id": "5zB8EB4SzX0hfJ6nXoks",
+          "zipCode": "411117",
+          "otherDetails": "",
+          "mobileNumber": "08963",
+          "name": "Rika",
+          "address": "Munjul Jaya Lama",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2"
+        },
+        "product_name": "Pesanan Saya 1627027370743",
+        "items": [
+          {
+            "product_id": "cvDM7gqNTBOdnQIAnYk7",
+            "id": "Mjqmxy3hKITpumfg3Uvk",
+            "stock_quantity": "44",
+            "cart_quantity": "1",
+            "product_name": "Sexy Grafity",
+            "product_price": "240000",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661194025.jpg?alt=media&token=f6417ac9-6b5a-45e8-bd9a-dea393f63dd2"
+          }
+        ],
+        "order_datetime": 1627027370743,
+        "sub_total_amount": "240000.0",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661194025.jpg?alt=media&token=f6417ac9-6b5a-45e8-bd9a-dea393f63dd2",
+        "id": "",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "total_amount": "260000.0",
+        "shipping_charge": "20000",
+        "__collections__": {}
+      },
+      "8YJPmA0SoDPnwA2adr9L": {
+        "address": {
+          "name": "Fouri Khanjesti",
+          "zipCode": "3940502834",
+          "additionalNote": "Rumah saya baris ke tiga",
+          "otherDetails": "",
+          "id": "Wp5Ak0DbjJxXCcFDkw4i",
+          "mobileNumber": "08956231",
+          "address": "Jalan Pinang Mas 3",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2"
+        },
+        "product_name": "Pesanan Saya 1627195933452",
+        "id": "",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661321067.jpg?alt=media&token=844d8c34-e5c6-4e21-9c40-d31af15de300",
+        "shipping_charge": "20000",
+        "items": [
+          {
+            "id": "HMPCmMFdzBYttbW5PvHV",
+            "product_id": "bZpcAHlWY80rT57yFnll",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661321067.jpg?alt=media&token=844d8c34-e5c6-4e21-9c40-d31af15de300",
+            "product_name": "Agnes Monica",
+            "stock_quantity": "32",
+            "cart_quantity": "2",
+            "product_price": "265000"
+          }
+        ],
+        "sub_total_amount": "530000.0",
+        "total_amount": "550000.0",
+        "order_datetime": 1627195933452,
+        "__collections__": {}
+      },
+      "Bzm316TNpjy7oXz3KjLe": {
+        "id": "",
+        "total_amount": "100000.0",
+        "sub_total_amount": "80000.0",
+        "shipping_charge": "20000",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626253662862.jpg?alt=media&token=41f5705c-039a-4ef6-94e0-9c8f13268a75",
+        "product_name": "Pesanan Saya 1626597032345",
+        "items": [
+          {
+            "product_id": "agVvIYzGlIoGw7WM9xNK",
+            "product_name": "CD Cintailah cinta Dewa 19",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626253662862.jpg?alt=media&token=41f5705c-039a-4ef6-94e0-9c8f13268a75",
+            "stock_quantity": "10",
+            "cart_quantity": "1",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "id": "wwUeMXVIGLdzPzjUwQNJ",
+            "product_price": "80000"
+          }
+        ],
+        "order_datetime": 1626597032345,
+        "address": {
+          "mobileNumber": "08962154085",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "address": "Jalan Jagakarsa Jakarta Selatan",
+          "id": "mYRwJlPgD6CqFyfwIiyT",
+          "additionalNote": "Rumah saya warna biru",
+          "otherDetails": "",
+          "zipCode": "7890456",
+          "name": "Fouri Khanjesti"
+        },
+        "__collections__": {}
+      },
+      "GdpuN875uVui5o1FqnhC": {
+        "product_name": "Pesanan Saya 1627457622071",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "items": [
+          {
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "product_price": "265000",
+            "cart_quantity": "1",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661321067.jpg?alt=media&token=844d8c34-e5c6-4e21-9c40-d31af15de300",
+            "product_id": "bZpcAHlWY80rT57yFnll",
+            "stock_quantity": "32",
+            "product_name": "Agnes Monica",
+            "id": "D5enA8a0ubNKqbcj3766"
+          }
+        ],
+        "id": "",
+        "sub_total_amount": "265000.0",
+        "shipping_charge": "20000",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661321067.jpg?alt=media&token=844d8c34-e5c6-4e21-9c40-d31af15de300",
+        "total_amount": "285000.0",
+        "address": {
+          "mobileNumber": "08956231",
+          "additionalNote": "Rumah saya baris ke tiga",
+          "id": "Wp5Ak0DbjJxXCcFDkw4i",
+          "zipCode": "3940502834",
+          "name": "Fouri Khanjesti",
+          "address": "Jalan Pinang Mas 3",
+          "otherDetails": "",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2"
+        },
+        "order_datetime": 1627457622072,
+        "__collections__": {}
+      },
+      "OLrqoS0kfxKTZONcKHZU": {
+        "items": [
+          {
+            "cart_quantity": "1",
+            "id": "ikhCGDTcL7X8u3LZfPdG",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661194025.jpg?alt=media&token=f6417ac9-6b5a-45e8-bd9a-dea393f63dd2",
+            "product_name": "Sexy Grafity",
+            "product_price": "240000",
+            "product_id": "cvDM7gqNTBOdnQIAnYk7",
+            "stock_quantity": "44",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2"
+          }
+        ],
+        "sub_total_amount": "240000.0",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661194025.jpg?alt=media&token=f6417ac9-6b5a-45e8-bd9a-dea393f63dd2",
+        "order_datetime": 1628771644813,
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "product_name": "Pesanan Saya 1628771644813",
+        "id": "",
+        "shipping_charge": "20000",
+        "total_amount": "260000.0",
+        "address": {
+          "additionalNote": "Rumah saya baris ke tiga",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "mobileNumber": "08956231",
+          "id": "Wp5Ak0DbjJxXCcFDkw4i",
+          "zipCode": "3940502834",
+          "name": "Fouri Khanjesti",
+          "address": "Jalan Pinang Mas 3",
+          "otherDetails": ""
+        },
+        "__collections__": {}
+      },
+      "RuVwdFxbZ8FrGokXNMjl": {
+        "address": {
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "additionalNote": "Rumah saya warna biru",
+          "address": "Munjul Jaya Lama",
+          "otherDetails": "",
+          "zipCode": "411117",
+          "mobileNumber": "08963",
+          "id": "5zB8EB4SzX0hfJ6nXoks",
+          "name": "Rika"
+        },
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660859880.png?alt=media&token=938208bc-79b3-43bc-8e5d-f9fee8321216",
+        "id": "",
+        "total_amount": "250000.0",
+        "shipping_charge": "20000",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "order_datetime": 1626944772832,
+        "sub_total_amount": "230000.0",
+        "product_name": "Pesanan Saya 1626944772832",
+        "items": [
+          {
+            "product_id": "IUIiV5uLCx15YQik23hQ",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660859880.png?alt=media&token=938208bc-79b3-43bc-8e5d-f9fee8321216",
+            "product_price": "230000",
+            "product_name": "Bulgary Men",
+            "id": "NRHWn5zRKWAKiQxK0YDk",
+            "cart_quantity": "1",
+            "stock_quantity": "22"
+          }
+        ],
+        "__collections__": {}
+      },
+      "Ssw3Z3HrSmD76xhhBEZ4": {
+        "order_datetime": 1626674592516,
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "total_amount": "190000.0",
+        "id": "",
+        "items": [
+          {
+            "product_name": "Polo Sport",
+            "product_id": "32z7aFR9rhjfnd8r6tt0",
+            "stock_quantity": "21",
+            "product_price": "170000",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660955773.png?alt=media&token=86183acd-6572-4f7e-a290-261fba50ae04",
+            "cart_quantity": "1",
+            "id": "jPcU8X12H8oyYPY4i7iS",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2"
+          }
+        ],
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660955773.png?alt=media&token=86183acd-6572-4f7e-a290-261fba50ae04",
+        "product_name": "Pesanan Saya 1626674592516",
+        "shipping_charge": "20000",
+        "address": {
+          "address": "Jalan Jagakarsa Jakarta Selatan",
+          "zipCode": "7890456",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "mobileNumber": "08962154085",
+          "name": "Fouri Khanjesti",
+          "additionalNote": "Rumah saya warna biru",
+          "otherDetails": "",
+          "id": "mYRwJlPgD6CqFyfwIiyT"
+        },
+        "sub_total_amount": "170000.0",
+        "__collections__": {}
+      },
+      "Tt5HMt1qnPkc5nETbC8T": {
+        "order_datetime": 1627026680787,
+        "address": {
+          "name": "Rika",
+          "address": "Munjul Jaya Lama",
+          "id": "5zB8EB4SzX0hfJ6nXoks",
+          "otherDetails": "",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "mobileNumber": "08963",
+          "zipCode": "411117",
+          "additionalNote": "Rumah saya warna biru"
+        },
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660955773.png?alt=media&token=86183acd-6572-4f7e-a290-261fba50ae04",
+        "id": "",
+        "shipping_charge": "20000",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "product_name": "Pesanan Saya 1627026680787",
+        "items": [
+          {
+            "product_name": "Polo Sport",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660955773.png?alt=media&token=86183acd-6572-4f7e-a290-261fba50ae04",
+            "cart_quantity": "1",
+            "id": "Fgr3KWWzSpCYg0nROrwC",
+            "stock_quantity": "21",
+            "product_id": "32z7aFR9rhjfnd8r6tt0",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "product_price": "170000"
+          }
+        ],
+        "sub_total_amount": "170000.0",
+        "total_amount": "190000.0",
+        "__collections__": {}
+      },
+      "Ve4jPhhSoKjnpRljsI3m": {
+        "items": [
+          {
+            "id": "P9fSy13wUHVnvlyinWbb",
+            "product_price": "450000",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "cart_quantity": "1",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779",
+            "product_name": "Blu Ray Duke Nukem PS4",
+            "product_id": "0kRNqn5nE2ciIoxJnU7w",
+            "stock_quantity": "22"
+          }
+        ],
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "order_datetime": 1624822706148,
+        "total_amount": "470000.0",
+        "product_name": "Pesanan Saya 1624822706148",
+        "shipping_charge": "20000",
+        "address": {
+          "name": "Fouri Khanjesti",
+          "id": "VlfQtT4I6aY8NZwnBqBa",
+          "zipCode": "23749291",
+          "mobileNumber": "085218522373",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "otherDetails": "",
+          "additionalNote": "Rumah saya warna biru",
+          "address": "Jalan Jagakarsa Selatan"
+        },
+        "id": "",
+        "sub_total_amount": "450000.0",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779",
+        "__collections__": {}
+      },
+      "WgZQLj1rq09DV1XZSnIp": {
+        "product_name": "Pesanan Saya 1624805035239",
+        "total_amount": "470000.0",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779",
+        "sub_total_amount": "450000.0",
+        "shipping_charge": "20000",
+        "address": {
+          "zipCode": "23749291",
+          "additionalNote": "Rumah saya warna biru",
+          "id": "VlfQtT4I6aY8NZwnBqBa",
+          "otherDetails": "",
+          "address": "Jalan Jagakarsa Selatan",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "mobileNumber": "085218522373",
+          "name": "Fouri Khanjesti"
+        },
+        "id": "",
+        "order_datetime": 1624805035239,
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "items": [
+          {
+            "cart_quantity": "1",
+            "id": "i7xqL0n474fj5V7BbOhU",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "product_id": "0kRNqn5nE2ciIoxJnU7w",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779",
+            "product_price": "450000",
+            "product_name": "Blu Ray Duke Nukem PS4",
+            "stock_quantity": "22"
+          }
+        ],
+        "__collections__": {}
+      },
+      "cgTi11gBTfN3aqGzMQwJ": {
+        "total_amount": "250000.0",
+        "sub_total_amount": "230000.0",
+        "order_datetime": 1627026784143,
+        "address": {
+          "name": "Rika",
+          "mobileNumber": "08963",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "id": "5zB8EB4SzX0hfJ6nXoks",
+          "otherDetails": "",
+          "zipCode": "411117",
+          "additionalNote": "Rumah saya warna biru",
+          "address": "Munjul Jaya Lama"
+        },
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "items": [
+          {
+            "id": "w71zNAZZypHn0x5n1NdJ",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660859880.png?alt=media&token=938208bc-79b3-43bc-8e5d-f9fee8321216",
+            "cart_quantity": "1",
+            "stock_quantity": "22",
+            "product_price": "230000",
+            "product_name": "Bulgary Men",
+            "product_id": "IUIiV5uLCx15YQik23hQ",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2"
+          }
+        ],
+        "id": "",
+        "shipping_charge": "20000",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660859880.png?alt=media&token=938208bc-79b3-43bc-8e5d-f9fee8321216",
+        "product_name": "Pesanan Saya 1627026784143",
+        "__collections__": {}
+      },
+      "eBHaiVcERwecBPsKzlC4": {
+        "shipping_charge": "20000",
+        "sub_total_amount": "450000.0",
+        "id": "",
+        "address": {
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "id": "VlfQtT4I6aY8NZwnBqBa",
+          "zipCode": "23749291",
+          "mobileNumber": "085218522373",
+          "otherDetails": "",
+          "address": "Jalan Jagakarsa Selatan",
+          "additionalNote": "Rumah saya warna biru",
+          "name": "Fouri Khanjesti"
+        },
+        "order_datetime": 1624813246145,
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779",
+        "items": [
+          {
+            "cart_quantity": "1",
+            "product_price": "450000",
+            "product_name": "Blu Ray Duke Nukem PS4",
+            "stock_quantity": "22",
+            "product_id": "0kRNqn5nE2ciIoxJnU7w",
+            "id": "BbSAntInxJDRM5ieKCgY",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779"
+          }
+        ],
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "product_name": "Pesanan Saya 1624813246145",
+        "total_amount": "470000.0",
+        "__collections__": {}
+      },
+      "ex1FjqkmMnNQUs8ahBdn": {
+        "address": {
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "mobileNumber": "08962154085",
+          "additionalNote": "Rumah saya warna biru",
+          "otherDetails": "",
+          "zipCode": "7890456",
+          "name": "Fouri Khanjesti",
+          "id": "mYRwJlPgD6CqFyfwIiyT",
+          "address": "Jalan Jagakarsa Jakarta Selatan"
+        },
+        "sub_total_amount": "530000.0",
+        "id": "",
+        "items": [
+          {
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "product_price": "265000",
+            "cart_quantity": "2",
+            "product_name": "Agnes Monica",
+            "id": "6cQY4n5Ay8mKaqZvwMT9",
+            "stock_quantity": "32",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661321067.jpg?alt=media&token=844d8c34-e5c6-4e21-9c40-d31af15de300",
+            "product_id": "bZpcAHlWY80rT57yFnll"
+          }
+        ],
+        "product_name": "Pesanan Saya 1626668032102",
+        "total_amount": "550000.0",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "shipping_charge": "20000",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661321067.jpg?alt=media&token=844d8c34-e5c6-4e21-9c40-d31af15de300",
+        "order_datetime": 1626668032102,
+        "__collections__": {}
+      },
+      "fwdCcEEk8igr0SU7OXEz": {
+        "items": [
+          {
+            "product_id": "IUIiV5uLCx15YQik23hQ",
+            "product_name": "Bulgary Men",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "cart_quantity": "2",
+            "stock_quantity": "22",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660859880.png?alt=media&token=938208bc-79b3-43bc-8e5d-f9fee8321216",
+            "product_price": "230000",
+            "id": "C9N3sMNIAiyUkBIbvk5U"
+          }
+        ],
+        "sub_total_amount": "460000.0",
+        "total_amount": "480000.0",
+        "address": {
+          "address": "Jl Cik Ditiro 1A",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "name": "Rika",
+          "additionalNote": "Rumah saya persis dekat jalur rel",
+          "zipCode": "5674939",
+          "otherDetails": "",
+          "id": "BvsRdqf9C7pi84AmMYW7",
+          "mobileNumber": "089629875085"
+        },
+        "shipping_charge": "20000",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "product_name": "Pesanan Saya 1627030575336",
+        "order_datetime": 1627030575336,
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660859880.png?alt=media&token=938208bc-79b3-43bc-8e5d-f9fee8321216",
+        "id": "",
+        "__collections__": {}
+      },
+      "oUyZ7LjwxOIOHrZxkwlz": {
+        "total_amount": "250000.0",
+        "shipping_charge": "20000",
+        "items": [
+          {
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660859880.png?alt=media&token=938208bc-79b3-43bc-8e5d-f9fee8321216",
+            "product_price": "230000",
+            "stock_quantity": "22",
+            "product_id": "IUIiV5uLCx15YQik23hQ",
+            "id": "fQjPLEK0XYQOuWXcuR4Q",
+            "product_name": "Bulgary Men",
+            "cart_quantity": "1",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2"
+          }
+        ],
+        "address": {
+          "id": "mEhiAefLacKYNMu5sTbZ",
+          "address": "Jalan Kenangan No.15",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "zipCode": "4572829",
+          "name": "Irma Suryani",
+          "additionalNote": "Rumah saya jejeran ke tiga",
+          "mobileNumber": "089562384",
+          "otherDetails": ""
+        },
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "sub_total_amount": "230000.0",
+        "product_name": "Pesanan Saya 1627031538765",
+        "order_datetime": 1627031538765,
+        "id": "",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660859880.png?alt=media&token=938208bc-79b3-43bc-8e5d-f9fee8321216",
+        "__collections__": {}
+      },
+      "oejCj6gHeelH1qIVsiVY": {
+        "sub_total_amount": "450000.0",
+        "id": "",
+        "address": {
+          "additionalNote": "Rumah saya warna biru",
+          "name": "Fouri Khanjesti",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "otherDetails": "",
+          "zipCode": "23749291",
+          "address": "Jalan Jagakarsa Selatan",
+          "id": "VlfQtT4I6aY8NZwnBqBa",
+          "mobileNumber": "085218522373"
+        },
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779",
+        "total_amount": "470000.0",
+        "items": [
+          {
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "product_price": "450000",
+            "stock_quantity": "22",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779",
+            "product_name": "Blu Ray Duke Nukem PS4",
+            "cart_quantity": "1",
+            "id": "VReNY7WrZEZY5U1uBJIi",
+            "product_id": "0kRNqn5nE2ciIoxJnU7w"
+          }
+        ],
+        "shipping_charge": "20000",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "order_datetime": 1624804283472,
+        "product_name": "Pesanan Saya 1624804283471",
+        "__collections__": {}
+      },
+      "uaAZZ7FK4FWqce0r4QmC": {
+        "shipping_charge": "20000",
+        "total_amount": "310000.0",
+        "product_name": "Pesanan Saya 1627148136250",
+        "items": [
+          {
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "product_price": "290000",
+            "product_name": "Antonio Banderas",
+            "cart_quantity": "1",
+            "product_id": "JZ40xXcJCvbDxLh6FRD0",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661402375.jpg?alt=media&token=b21d341f-f53c-4b7f-99f8-1e682858a539",
+            "id": "HVOQlGRbaU4fYKjsvG6k",
+            "stock_quantity": "35"
+          }
+        ],
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661402375.jpg?alt=media&token=b21d341f-f53c-4b7f-99f8-1e682858a539",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "order_datetime": 1627148136250,
+        "address": {
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "additionalNote": "Rumah saya baris ke tiga",
+          "id": "Wp5Ak0DbjJxXCcFDkw4i",
+          "name": "Fouri Khanjesti",
+          "zipCode": "3940502834",
+          "address": "Jalan Pinang Mas 3",
+          "otherDetails": "",
+          "mobileNumber": "08956231"
+        },
+        "sub_total_amount": "290000.0",
+        "id": "",
+        "__collections__": {}
+      },
+      "yET8BPFG9nQ6zl4S9ydN": {
+        "id": "",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "order_datetime": 1624799226966,
+        "items": [
+          {
+            "stock_quantity": "22",
+            "product_price": "450000",
+            "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+            "product_id": "0kRNqn5nE2ciIoxJnU7w",
+            "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779",
+            "product_name": "Blu Ray Duke Nukem PS4",
+            "cart_quantity": "1",
+            "id": "4GSbnS13WDAlQ70SuoaR"
+          }
+        ],
+        "sub_total_amount": "450000.0",
+        "total_amount": "470000.0",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779",
+        "shipping_charge": "20000",
+        "address": {
+          "mobileNumber": "085218522373",
+          "additionalNote": "Rumah saya warna biru",
+          "otherDetails": "",
+          "name": "Fouri Khanjesti",
+          "zipCode": "23749291",
+          "address": "Jalan Jagakarsa Selatan",
+          "id": "VlfQtT4I6aY8NZwnBqBa",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2"
+        },
+        "product_name": "Pesanan Saya 1624799226966",
+        "__collections__": {}
+      }
+    },
+    "addresses": {
+      "Wp5Ak0DbjJxXCcFDkw4i": {
+        "zipCode": "3940502834",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "additionalNote": "Rumah saya baris ke tiga",
+        "otherDetails": "",
+        "name": "Fouri Khanjesti",
+        "mobileNumber": "08956231",
+        "id": "",
+        "address": "Jalan Pinang Mas 3",
+        "__collections__": {}
+      }
+    },
+    "cart_items": {
+      "O2k8rnVYyEIktz1kEwnj": {
+        "cart_quantity": "1",
+        "product_price": "450000",
+        "product_name": "Blu Ray Duke Nukem PS4",
+        "id": "",
+        "stock_quantity": "",
+        "product_id": "0kRNqn5nE2ciIoxJnU7w",
+        "user_id": "zocyGpAC40WcnX6SXOxhr0ci7tC3",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779",
+        "__collections__": {}
+      }
+    },
+    "products": {
+      "32z7aFR9rhjfnd8r6tt0": {
+        "product_quantity": "21",
+        "product_id": "",
+        "product_name": "Polo Sport",
+        "product_description": "Polo Sport adalah salah satu parfum pria terbaik",
+        "user_name": "",
+        "product_price": "170000",
+        "user_id": "HzZ8FqlXbmXvKUNkkRqU2FDliXm2",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660955773.png?alt=media&token=86183acd-6572-4f7e-a290-261fba50ae04",
+        "__collections__": {}
+      },
+      "IUIiV5uLCx15YQik23hQ": {
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660859880.png?alt=media&token=938208bc-79b3-43bc-8e5d-f9fee8321216",
+        "user_name": "",
+        "product_id": "",
+        "product_price": "230000",
+        "product_name": "Bulgary Men",
+        "user_id": "HzZ8FqlXbmXvKUNkkRqU2FDliXm2",
+        "product_quantity": "22",
+        "product_description": "Parfum khusus pria pilihan terbaik",
+        "__collections__": {}
+      },
+      "JZ40xXcJCvbDxLh6FRD0": {
+        "user_name": "",
+        "user_id": "HzZ8FqlXbmXvKUNkkRqU2FDliXm2",
+        "product_quantity": "35",
+        "product_price": "290000",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661402375.jpg?alt=media&token=b21d341f-f53c-4b7f-99f8-1e682858a539",
+        "product_id": "",
+        "product_name": "Antonio Banderas",
+        "product_description": "Antonio Banderas parfum yang membuat anda seperti menjadi bintang",
+        "__collections__": {}
+      },
+      "bZpcAHlWY80rT57yFnll": {
+        "user_id": "HzZ8FqlXbmXvKUNkkRqU2FDliXm2",
+        "product_name": "Agnes Monica",
+        "user_name": "",
+        "product_quantity": "32",
+        "product_description": "Parfum wanita yang dijamin akan membuat anda seperti idola anda",
+        "product_id": "",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661321067.jpg?alt=media&token=844d8c34-e5c6-4e21-9c40-d31af15de300",
+        "product_price": "265000",
+        "__collections__": {}
+      },
+      "cvDM7gqNTBOdnQIAnYk7": {
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661194025.jpg?alt=media&token=f6417ac9-6b5a-45e8-bd9a-dea393f63dd2",
+        "user_id": "HzZ8FqlXbmXvKUNkkRqU2FDliXm2",
+        "product_id": "",
+        "product_quantity": "44",
+        "product_description": "Parfum Unisex terbaik",
+        "user_name": "",
+        "product_price": "240000",
+        "product_name": "Sexy Grafity",
+        "__collections__": {}
+      },
+      "dIzlRKpv7bqk3Z5Bpc07": {
+        "product_id": "",
+        "user_id": "HzZ8FqlXbmXvKUNkkRqU2FDliXm2",
+        "user_name": "",
+        "product_name": "Sakhira",
+        "product_description": "Produk parfum shakira membuat anda menjadi lebih percaya diri",
+        "product_quantity": "20",
+        "product_price": "90000",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660674464.png?alt=media&token=7ce37cd9-c1e6-4340-bd49-91d2e2d0a52d",
+        "__collections__": {}
+      },
+      "nGV4GIvjVc7R0FozSD84": {
+        "user_id": "HzZ8FqlXbmXvKUNkkRqU2FDliXm2",
+        "product_description": "Paris shiren adalah salah satu parfum import terbaik",
+        "user_name": "",
+        "product_quantity": "18",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660763893.png?alt=media&token=fac928df-037e-4994-b307-50b07e6e2e42",
+        "product_name": "Paris Shiren",
+        "product_price": "75000",
+        "product_id": "",
+        "__collections__": {}
+      },
+      "tqJS6jNZqcWrr8dVL3gB": {
+        "product_id": "",
+        "product_description": "Maher Zain adalah parfum terbaik yang mudah mudahan bisa membuat anda menjadi lebih dekat dengan Tuhan",
+        "product_price": "270000",
+        "user_name": "",
+        "product_quantity": "26",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661107655.png?alt=media&token=ad06de69-28d5-4307-bbb0-f0dfa5455224",
+        "product_name": "Maher Zain",
+        "user_id": "HzZ8FqlXbmXvKUNkkRqU2FDliXm2",
+        "__collections__": {}
+      }
+    },
+    "sold_products": {
+      "0kRNqn5nE2ciIoxJnU7w": {
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "id": "",
+        "shipping_charge": "20000",
+        "product_name": "Blu Ray Duke Nukem PS4",
+        "total_amount": "470000.0",
+        "sold_quantity": "1",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1624302828114.webp?alt=media&token=252fddb8-493b-47ed-9b03-22935a7fe779",
+        "address": {
+          "name": "Fouri Khanjesti",
+          "additionalNote": "Rumah saya warna biru",
+          "mobileNumber": "08962154085",
+          "id": "mYRwJlPgD6CqFyfwIiyT",
+          "address": "Jalan Jagakarsa Jakarta Selatan",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "otherDetails": "",
+          "zipCode": "7890456"
+        },
+        "product_price": "450000",
+        "order_id": "Pesanan Saya 1626099726329",
+        "sub_total_amount": "450000.0",
+        "order_date": 1626099726329,
+        "__collections__": {}
+      },
+      "32z7aFR9rhjfnd8r6tt0": {
+        "sub_total_amount": "170000.0",
+        "product_price": "170000",
+        "product_name": "Polo Sport",
+        "id": "",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660955773.png?alt=media&token=86183acd-6572-4f7e-a290-261fba50ae04",
+        "order_id": "Pesanan Saya 1627026680787",
+        "shipping_charge": "20000",
+        "order_date": 1627026680787,
+        "total_amount": "190000.0",
+        "address": {
+          "otherDetails": "",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "zipCode": "411117",
+          "mobileNumber": "08963",
+          "name": "Rika",
+          "additionalNote": "Rumah saya warna biru",
+          "id": "5zB8EB4SzX0hfJ6nXoks",
+          "address": "Munjul Jaya Lama"
+        },
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "sold_quantity": "1",
+        "__collections__": {}
+      },
+      "IUIiV5uLCx15YQik23hQ": {
+        "total_amount": "250000.0",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "product_price": "230000",
+        "product_name": "Bulgary Men",
+        "sub_total_amount": "230000.0",
+        "order_date": 1627031538765,
+        "shipping_charge": "20000",
+        "id": "",
+        "address": {
+          "mobileNumber": "089562384",
+          "zipCode": "4572829",
+          "otherDetails": "",
+          "id": "mEhiAefLacKYNMu5sTbZ",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "additionalNote": "Rumah saya jejeran ke tiga",
+          "address": "Jalan Kenangan No.15",
+          "name": "Irma Suryani"
+        },
+        "sold_quantity": "1",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660859880.png?alt=media&token=938208bc-79b3-43bc-8e5d-f9fee8321216",
+        "order_id": "Pesanan Saya 1627031538765",
+        "__collections__": {}
+      },
+      "JZ40xXcJCvbDxLh6FRD0": {
+        "id": "",
+        "product_price": "290000",
+        "sold_quantity": "1",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661402375.jpg?alt=media&token=b21d341f-f53c-4b7f-99f8-1e682858a539",
+        "shipping_charge": "20000",
+        "total_amount": "310000.0",
+        "order_id": "Pesanan Saya 1627148136250",
+        "product_name": "Antonio Banderas",
+        "sub_total_amount": "290000.0",
+        "order_date": 1627148136250,
+        "address": {
+          "zipCode": "3940502834",
+          "otherDetails": "",
+          "id": "Wp5Ak0DbjJxXCcFDkw4i",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "additionalNote": "Rumah saya baris ke tiga",
+          "name": "Fouri Khanjesti",
+          "address": "Jalan Pinang Mas 3",
+          "mobileNumber": "08956231"
+        },
+        "__collections__": {}
+      },
+      "agVvIYzGlIoGw7WM9xNK": {
+        "product_name": "CD Cintailah cinta Dewa 19",
+        "total_amount": "100000.0",
+        "order_date": 1626597032345,
+        "id": "",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "sub_total_amount": "80000.0",
+        "shipping_charge": "20000",
+        "sold_quantity": "1",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626253662862.jpg?alt=media&token=41f5705c-039a-4ef6-94e0-9c8f13268a75",
+        "order_id": "Pesanan Saya 1626597032345",
+        "address": {
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "id": "mYRwJlPgD6CqFyfwIiyT",
+          "zipCode": "7890456",
+          "name": "Fouri Khanjesti",
+          "mobileNumber": "08962154085",
+          "address": "Jalan Jagakarsa Jakarta Selatan",
+          "otherDetails": "",
+          "additionalNote": "Rumah saya warna biru"
+        },
+        "product_price": "80000",
+        "__collections__": {}
+      },
+      "bZpcAHlWY80rT57yFnll": {
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661321067.jpg?alt=media&token=844d8c34-e5c6-4e21-9c40-d31af15de300",
+        "order_date": 1627457622072,
+        "address": {
+          "address": "Jalan Pinang Mas 3",
+          "mobileNumber": "08956231",
+          "id": "Wp5Ak0DbjJxXCcFDkw4i",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "otherDetails": "",
+          "name": "Fouri Khanjesti",
+          "additionalNote": "Rumah saya baris ke tiga",
+          "zipCode": "3940502834"
+        },
+        "id": "",
+        "sub_total_amount": "265000.0",
+        "shipping_charge": "20000",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "order_id": "Pesanan Saya 1627457622071",
+        "product_price": "265000",
+        "total_amount": "285000.0",
+        "sold_quantity": "1",
+        "product_name": "Agnes Monica",
+        "__collections__": {}
+      },
+      "cvDM7gqNTBOdnQIAnYk7": {
+        "id": "",
+        "order_date": 1628771644813,
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "total_amount": "260000.0",
+        "shipping_charge": "20000",
+        "sub_total_amount": "240000.0",
+        "sold_quantity": "1",
+        "order_id": "Pesanan Saya 1628771644813",
+        "product_price": "240000",
+        "product_name": "Sexy Grafity",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626661194025.jpg?alt=media&token=f6417ac9-6b5a-45e8-bd9a-dea393f63dd2",
+        "address": {
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "otherDetails": "",
+          "id": "Wp5Ak0DbjJxXCcFDkw4i",
+          "zipCode": "3940502834",
+          "mobileNumber": "08956231",
+          "name": "Fouri Khanjesti",
+          "additionalNote": "Rumah saya baris ke tiga",
+          "address": "Jalan Pinang Mas 3"
+        },
+        "__collections__": {}
+      },
+      "dIzlRKpv7bqk3Z5Bpc07": {
+        "order_date": 1627247867234,
+        "product_price": "90000",
+        "total_amount": "200000.0",
+        "id": "",
+        "sold_quantity": "2",
+        "address": {
+          "name": "Fouri Khanjesti",
+          "otherDetails": "",
+          "zipCode": "3940502834",
+          "additionalNote": "Rumah saya baris ke tiga",
+          "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+          "id": "Wp5Ak0DbjJxXCcFDkw4i",
+          "mobileNumber": "08956231",
+          "address": "Jalan Pinang Mas 3"
+        },
+        "product_name": "Sakhira",
+        "sub_total_amount": "180000.0",
+        "order_id": "Pesanan Saya 1627247867233",
+        "product_image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/Product_Image1626660674464.png?alt=media&token=7ce37cd9-c1e6-4340-bd49-91d2e2d0a52d",
+        "user_id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "shipping_charge": "20000",
+        "__collections__": {}
+      }
+    },
+    "users": {
+      "HzZ8FqlXbmXvKUNkkRqU2FDliXm2": {
+        "mobile": 89629875085,
+        "gender": "Pria",
+        "email": "adminauraparfum@gmail.com",
+        "firstName": "Admin",
+        "image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/User_Profile_Image1625555073939.jpg?alt=media&token=544cdca4-f30f-47dd-935c-0372b96998da",
+        "id": "HzZ8FqlXbmXvKUNkkRqU2FDliXm2",
+        "lastName": "Sarimin",
+        "profileCompleted": 1,
+        "__collections__": {}
+      },
+      "MnyB3bxlBbMiV50SQF9gf8JD1xo2": {
+        "gender": "Wanita",
+        "id": "MnyB3bxlBbMiV50SQF9gf8JD1xo2",
+        "email": "fourikhanjesti@gmail.com",
+        "mobile": 89123456789,
+        "profileCompleted": 1,
+        "firstName": "Fouri",
+        "image": "https://firebasestorage.googleapis.com/v0/b/aurashop-ad0cb.appspot.com/o/User_Profile_Image1624182664320.jpg?alt=media&token=6a83a2ab-ecc8-42ab-a0be-1d691b61c1a0",
+        "lastName": "Khanjesti",
+        "__collections__": {}
+      }
+    }
+  }
+}

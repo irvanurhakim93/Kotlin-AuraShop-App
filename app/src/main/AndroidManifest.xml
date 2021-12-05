@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.irvan.aurashop" >
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature
+        android:name="android.hardware.camera2"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_cart"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AuraShop"
+        tools:replace="android:allowBackup" >
+        <activity android:name=".ui.activities.SeeDetailsBillsActivity" >
+        </activity>
+        <activity
+            android:name=".ui.activities.PayAtPlaceActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" >
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/provider_file" />
+
+        <activity
+            android:name=".ui.activities.BillsAfterCheckoutActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity android:name=".ui.activities.PreLoginActivity" />
+        <activity
+            android:name=".ui.activities.WishlistActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity
+            android:name=".ui.activities.SoldProductDetailsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity
+            android:name=".ui.activities.OrdersDetailsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity
+            android:name=".ui.activities.CheckOutActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity
+            android:name=".ui.activities.AddEditAddressActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity
+            android:name=".ui.activities.AddressListActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity
+            android:name=".ui.activities.CartListActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity
+            android:name=".ui.activities.ProductDetailsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity
+            android:name=".ui.activities.AddProductActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity
+            android:name=".ui.activities.SettingsActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity
+            android:name=".ui.activities.HomeActivity"
+            android:label="@string/app_name" />
+        <activity
+            android:name=".ui.activities.CompleteProfileUserActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity
+            android:name=".ui.activities.SplashActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.activities.MainActivity" />
+        <activity
+            android:name=".ui.activities.ForgotPasswordActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity android:name=".ui.activities.BaseActivity" />
+        <activity
+            android:name=".ui.activities.RegisterActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity
+            android:name=".ui.activities.LoginActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+        <activity
+            android:name="com.midtrans.sdk.uikit.activities.PaymentMethodsActivity"
+            android:theme="@style/Theme.AuraShop.NoActionBar" />
+
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.irvan.aurashop"
+            android:exported="false"
+            android:grantUriPermissions="true" >
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_file" />
+        </provider>
+    </application>
+
+</manifest>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/cart_item_marginTop"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    android:paddingStart="@dimen/cart_item_paddingStartEnd"
+    android:paddingTop="@dimen/cart_item_paddingTopBottom"
+    android:paddingEnd="@dimen/cart_item_paddingStartEnd"
+    android:paddingBottom="@dimen/cart_item_paddingTopBottom"
+    tools:context=".ui.fragments.AddToCartDialog">
+
+<!--    <LinearLayout-->
+<!--        android:id="@+id/cart_layout_item_image"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:background="@drawable/item_dashboard_background"-->
+<!--        android:padding="@dimen/cart_item_image_padding">-->
+
+<!--        <ImageView-->
+<!--            android:id="@+id/cart_layout_imageview"-->
+<!--            android:layout_width="@dimen/cart_item_image_width"-->
+<!--            android:layout_height="@dimen/cart_item_image_height"-->
+<!--            android:background="@color/colorImageViewBackground"-->
+<!--            android:scaleType="fitXY"/>-->
+<!--    </LinearLayout>-->
+
+
+<!--    <LinearLayout-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center_vertical"-->
+<!--        android:layout_marginStart="@dimen/cart_item_details_marginStart"-->
+<!--        android:layout_marginEnd="@dimen/cart_item_details_marginEnd"-->
+<!--        android:layout_weight="1"-->
+<!--        android:orientation="vertical">-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/cart_layout_item_name"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:textColor="@color/black"-->
+<!--            android:text="@string/cart_item_title"-->
+<!--            android:textSize="@dimen/cart_item_title_textSize"-->
+<!--            android:textStyle="bold"/>-->
+
+<!--        <RelativeLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content">-->
+
+<!--            <TextView-->
+<!--                android:id="@+id/cart_item_price"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_alignParentStart="true"-->
+<!--                android:layout_centerVertical="true"-->
+<!--                android:textColor="@color/purple_200"-->
+<!--                android:textSize="14sp"-->
+<!--                android:text="RP 100000"-->
+<!--                android:textStyle="bold"/>-->
+
+<!--            <LinearLayout-->
+<!--                android:id="@+id/cart_layout_linearlayout_update_quantity"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginStart="@dimen/update_cart_quantity_marginStart"-->
+<!--                android:layout_marginEnd="@dimen/update_cart_quantity_marginEnd"-->
+<!--                android:layout_toEndOf="@id/cart_item_price"-->
+<!--                android:gravity="end"-->
+<!--                android:orientation="horizontal">-->
+
+<!--                <ImageButton-->
+<!--                    android:id="@+id/cart_layout_remove_quantity_btn"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginStart="@dimen/ib_add_cart_item_marginStart"-->
+<!--                    android:layout_marginEnd="5dp"-->
+<!--                    android:background="@color/transparant"-->
+<!--                    android:foreground="?attr/selectableItemBackground"-->
+<!--                    android:padding="@dimen/ib_cart_item_padding"-->
+<!--                    android:src="@drawable/ic_baseline_remove_white"/>-->
+
+<!--                <TextView-->
+<!--                    android:id="@+id/cart_layout_quantity_txt"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:background="@drawable/item_grey_border_background"-->
+<!--                    android:paddingTop="@dimen/cart_quantity_paddingTopBottom"-->
+<!--                    android:paddingBottom="3dp"-->
+<!--                    android:paddingStart="16dp"-->
+<!--                    android:paddingEnd="16dp"-->
+<!--                    android:textStyle="bold"-->
+<!--                    android:textColor="@color/dark_gray"-->
+<!--                    android:text="1"/>-->
+
+<!--                <ImageButton-->
+<!--                    android:id="@+id/cart_layout_add_quantity_btn"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginStart="@dimen/ib_remove_cart_item_marginStartEnd"-->
+<!--                    android:layout_marginEnd="@dimen/ib_remove_cart_item_marginStartEnd"-->
+<!--                    android:background="@color/transparant"-->
+<!--                    android:foreground="?attr/selectableItemBackground"-->
+<!--                    android:padding="@dimen/ib_cart_item_padding"-->
+<!--                    android:src="@drawable/ic_baseline_add_blackk"/>-->
+<!--            </LinearLayout>-->
+<!--        </RelativeLayout>-->
+<!--        <com.irvan.aurashop.utils.AuraShopButton-->
+<!--            android:layout_marginTop="50dp"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:background="@drawable/button_background"-->
+<!--            android:text="@string/add_to_cart_label_btn"-->
+<!--            android:textColor="@color/white"-->
+<!--            android:textStyle="bold"/>-->
+<!--    </LinearLayout>-->
+
+
+
+<!--    <ImageButton-->
+<!--        android:id="@+id/dialog_addtocart_close"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:background="@android:color/transparent"-->
+<!--        android:foreground="?attr/selectableItemBackgroundBorderless"-->
+<!--        android:padding="@dimen/ib_cart_item_padding"-->
+<!--        android:src="@drawable/ic_baseline_close_24"-->
+<!--        android:visibility="visible"-->
+<!--        tools:visibility="visible"/>-->
+
+</LinearLayout>
